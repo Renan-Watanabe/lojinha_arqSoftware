@@ -3,11 +3,11 @@ Este projeto é uma aplicação Java desenvolvida para fins acadêmicos, simulan
 
 ## DER do sistema:
 
-![DER_lojinha_arqsoftware](https://github.com/user-attachments/assets/ecaa047d-3515-4bb8-b4db-bff5ff1f916d)
+![DER_arqSoftware](https://github.com/user-attachments/assets/fe2eccde-bf1b-4afe-a179-3d0225b3bbd3)
 
 ## Diagrama UML do sistema:
 
-<img width="1131" height="663" alt="UML_lojinha_arqsoftware" src="https://github.com/user-attachments/assets/11961d0b-f48c-43d2-a165-5a257e50cc4b" />
+<img width="1138" height="670" alt="image" src="https://github.com/user-attachments/assets/3f44724c-e66a-4968-8efa-3ebbce037035" />
 
 ## Arquitetura:
 O sistema foi construído seguindo princípios de design robustos para garantir organização e facilidade de manutenção.
